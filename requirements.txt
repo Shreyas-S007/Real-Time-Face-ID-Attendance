@@ -1,0 +1,12 @@
+firebase-admin
+opencv-python
+face-recognition
+numpy
+cvzone
+pillow
+numpy
+pickel
+os
+face-recognition
+cv2
+cvzone
